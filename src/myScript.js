@@ -213,3 +213,11 @@ function addFive() {
 // Only change code above this line
 addThree();
 addFive(); //Subtask 55 ended
+
+//Subtask 56 started
+let processed = 0;
+function processArg(num) {
+  return (num + 3) / 5;
+}
+// Only change code below this line
+processed = processArg(7); //Subtask 56 ended
