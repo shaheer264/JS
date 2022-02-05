@@ -46,3 +46,11 @@ let c = 12; //Subtask 21
 a += 12; //Subtask 21
 b += 9; //Subtask 21
 c += 7; //Subtask 21
+
+let a = 11; //Subtask 22
+let b = 9; //Subtask 22
+let c = 3; //Subtask 22
+// Only change code below this line
+a -= 6; //Subtask 22
+b -= 15; //Subtask 22
+c -= 1; //Subtask 22
