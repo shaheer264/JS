@@ -141,3 +141,5 @@ const removedFromMyArray = myArray.shift(); //Subtask 46
 const myArray = [["John", 23], ["dog", 3]]; //Subtask 47 started
 myArray.shift();
 myArray.unshift(["Paul", 35]); //Subtask 47 ended
+
+const myList = [["Chocolate", 15], ["Pepsi", 2], ["Chips", 5], ["Sandwich", 1], ["Fruits", 3]]; //Subtask 48
