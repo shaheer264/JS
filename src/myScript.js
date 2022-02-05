@@ -77,3 +77,6 @@ const myStr = "This is the start." + " This is the end."; //Subtask 28
 let myStr; //Subtask 29 started
 myStr = "This is the first sentence.";
 myStr += " This is the second sentence." //Subtask 29 ended
+
+const myName = "Shaheer"; //Subtask 30
+const myStr = "My name is " + myName + " and I am well!"; //Subtask 30
