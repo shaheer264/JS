@@ -143,3 +143,8 @@ myArray.shift();
 myArray.unshift(["Paul", 35]); //Subtask 47 ended
 
 const myList = [["Chocolate", 15], ["Pepsi", 2], ["Chips", 5], ["Sandwich", 1], ["Fruits", 3]]; //Subtask 48
+
+function reusableFunction() { //Subtask 49 started 
+    console.log("Hi World");
+  }
+  reusableFunction(); //Subtask 49 ended
