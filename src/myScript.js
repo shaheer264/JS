@@ -73,3 +73,4 @@ c /= 11; //Subtask 24 ended
 const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; //Subtask 25
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>'; //Subtask 26
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //Subtask 27
+const myStr = "This is the start." + " This is the end."; //Subtask 28
