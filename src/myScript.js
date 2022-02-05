@@ -105,3 +105,9 @@ const lastLetterOfLastName = lastName[lastName.length - 1] //Subtask 36 ended
 
 const lastName = "Lovelace"; //Subtask 37 started
 const secondToLastLetterOfLastName = lastName[lastName.length - 2] //Subtask 37 ended
+
+const myNoun = "dog"; //Subtask 38 started
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks = myNoun + " " + myAdjective + " " + " " + myVerb + " " + myAdverb; //Subtask 38 ended
