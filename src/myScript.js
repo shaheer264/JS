@@ -74,3 +74,6 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; //Sub
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>'; //Subtask 26
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //Subtask 27
 const myStr = "This is the start." + " This is the end."; //Subtask 28
+let myStr; //Subtask 29 started
+myStr = "This is the first sentence.";
+myStr += " This is the second sentence." //Subtask 29 ended
