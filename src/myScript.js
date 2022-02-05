@@ -32,3 +32,6 @@ const quotient = 66 / 33; //Subtask 14
 let myVar = 87; //Subtask 15
 // Only change code below this line
 myVar++;
+let myVar = 11; //Subtask 16
+// Only change code below this line
+myVar--;
