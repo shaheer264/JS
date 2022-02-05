@@ -37,3 +37,4 @@ let myVar = 11; //Subtask 16
 myVar--;
 const myDecimal = 5.7; //Subtask 17
 const product = 2.0 * 2.5; //Subtask 18
+const quotient = 4.4 / 2.0; //Subtask 19
