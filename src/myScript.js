@@ -6,3 +6,5 @@ a=7; //Subtask 3
 var b; //Subtask 4
 b=a; //Subtask 4
 var a = 9; //Subtask 5
+var myFirstName = "Shaheer"; //Subtask 6
+var myLastName = "Hashmi"; //Subtask 6
