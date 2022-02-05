@@ -102,3 +102,6 @@ const thirdLetterOfLastName = lastName[2]; //Subtask 35 ended
 
 const lastName = "Lovelace"; //Subtask 36 started
 const lastLetterOfLastName = lastName[lastName.length - 1] //Subtask 36 ended
+
+const lastName = "Lovelace"; //Subtask 37 started
+const secondToLastLetterOfLastName = lastName[lastName.length - 2] //Subtask 37 ended
