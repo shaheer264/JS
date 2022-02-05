@@ -29,3 +29,6 @@ const sum = 10 + 10; //Subtask 11
 const difference = 45 - 33; //Subtask 12
 const product = 8 * 10; //Subtask 13
 const quotient = 66 / 33; //Subtask 14
+let myVar = 87; //Subtask 15
+// Only change code below this line
+myVar++;
