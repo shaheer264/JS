@@ -128,3 +128,6 @@ const myArray = [   //Subtask 43 started
     [[10, 11, 12], 13, 14],
   ];
   const myData = myArray[2][1]; //Subtask 43 ended
+
+  const myArray = [["John", 23], ["cat", 2]]; //Subtask 44
+  myArray.push(["dog", 3]); //Subtask 44
