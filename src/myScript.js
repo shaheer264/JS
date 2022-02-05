@@ -94,5 +94,8 @@ let firstLetterOfLastName = ""; // Subtask 33 started
 const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; //Subtask 33 ended
 
-let myStr = "Jello World"; //Subtask 34 ended
+let myStr = "Jello World"; //Subtask 34 started
 myStr = "Hello World"; //Subtask 34 ended
+
+const lastName = "Lovelace"; //Subtask 35 started
+const thirdLetterOfLastName = lastName[2]; //Subtask 35 ended
