@@ -120,3 +120,11 @@ const myData = myArray[0]; //Subtask 41
 
 const myArray = [18, 64, 99]; //Subtask 42
 myArray[0] = 45; //Subtask 42
+
+const myArray = [   //Subtask 43 started
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  const myData = myArray[2][1]; //Subtask 43 ended
