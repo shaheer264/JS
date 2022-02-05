@@ -134,3 +134,6 @@ const myArray = [   //Subtask 43 started
 
   const myArray = [["John", 23], ["cat", 2]]; //Subtask 45
   const removedFromMyArray = myArray.pop(); //Subtask 45
+
+  const myArray = [["John", 23], ["dog", 3]]; //Subtask 46
+  const removedFromMyArray = myArray.shift(); //Subtask 46
