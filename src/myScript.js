@@ -254,3 +254,12 @@ function trueOrFalse(wasThatTrue) {
   }
   trueOrFalse(true);
   trueOrFalse(false); //Subtask 59 ended
+
+  //Subtask 60 started
+  function testEqual(val) {
+    if (val == 12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  testEqual(10); //Subtask 60 ended
