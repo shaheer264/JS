@@ -365,3 +365,15 @@ function trueOrFalse(wasThatTrue) {
     return "No";
   }
   testLogicalAnd(10); //Subtask 69 ended
+
+  //Subtask 70 started
+  function testLogicalOr(val) {
+    // Only change code below this line
+  
+    if (val < 10 || val >20) {
+      return "Outside";
+    }
+    // Only change code above this line
+    return "Inside";
+  }
+  testLogicalOr(15); //Subtask 70 ended
