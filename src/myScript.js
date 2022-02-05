@@ -28,3 +28,4 @@ console.log(FCC, fact); //Subtask 10
 const sum = 10 + 10; //Subtask 11
 const difference = 45 - 33; //Subtask 12
 const product = 8 * 10; //Subtask 13
+const quotient = 66 / 33; //Subtask 14
