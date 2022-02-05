@@ -54,3 +54,11 @@ let c = 3; //Subtask 22
 a -= 6; //Subtask 22
 b -= 15; //Subtask 22
 c -= 1; //Subtask 22
+
+let a = 5; //Subtask 23 started
+let b = 12;
+let c = 4.6;
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10; //Subtask 23 ended
