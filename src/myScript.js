@@ -200,3 +200,16 @@ function myOutfit() {
   return outerWear;
 }
 myOutfit(); //Subtask 54 ended
+
+// Subtask 55 started
+let sum = 0;
+function addThree() {
+  sum = sum + 3;
+}
+// Only change code below this line
+function addFive() {
+  sum = sum + 5;
+}
+// Only change code above this line
+addThree();
+addFive(); //Subtask 55 ended
