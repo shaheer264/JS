@@ -39,3 +39,10 @@ const myDecimal = 5.7; //Subtask 17
 const product = 2.0 * 2.5; //Subtask 18
 const quotient = 4.4 / 2.0; //Subtask 19
 const remainder = 11 % 3; //Subtask 20
+let a = 3; //Subtask 21
+let b = 17; //Subtask 21
+let c = 12; //Subtask 21
+// Only change code below this line
+a += 12; //Subtask 21
+b += 9; //Subtask 21
+c += 7; //Subtask 21
