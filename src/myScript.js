@@ -70,3 +70,4 @@ let c = 33;
 a /= 12;
 b /= 4;
 c /= 11; //Subtask 24 ended
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; //Subtask 25
