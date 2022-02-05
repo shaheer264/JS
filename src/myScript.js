@@ -544,7 +544,7 @@ function caseInSwitch(val) {
   }
   sequentialSizes(1); //Subtask 78 ended
 
-  //Subtask 79 started
+ 
   function chainToSwitch(val) {
     let answer = "";
     // Only change code below this line
@@ -570,3 +570,11 @@ function caseInSwitch(val) {
     return answer;
   }
   chainToSwitch(7); //Subtask 79 ended
+
+ //Subtask 80 started
+  function isLess(a, b) {
+    // Only change code below this line
+    return a < b;
+    // Only change code above this line
+  }
+  isLess(10, 15); //Subtask 80 ended
