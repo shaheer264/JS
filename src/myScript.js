@@ -148,3 +148,8 @@ function reusableFunction() { //Subtask 49 started
     console.log("Hi World");
   }
   reusableFunction(); //Subtask 49 ended
+
+  function functionWithArgs(digit1, digit2) { //Subtask 50 started 
+    console.log(digit1 + digit2);
+  }
+  functionWithArgs(2,4); //Subtask 50 ended
