@@ -127,13 +127,17 @@ const myArray = [   //Subtask 43 started
     [7, 8, 9],
     [[10, 11, 12], 13, 14],
   ];
-  const myData = myArray[2][1]; //Subtask 43 ended
+const myData = myArray[2][1]; //Subtask 43 ended
 
-  const myArray = [["John", 23], ["cat", 2]]; //Subtask 44
-  myArray.push(["dog", 3]); //Subtask 44
+const myArray = [["John", 23], ["cat", 2]]; //Subtask 44
+myArray.push(["dog", 3]); //Subtask 44
 
-  const myArray = [["John", 23], ["cat", 2]]; //Subtask 45
-  const removedFromMyArray = myArray.pop(); //Subtask 45
+const myArray = [["John", 23], ["cat", 2]]; //Subtask 45
+const removedFromMyArray = myArray.pop(); //Subtask 45
 
-  const myArray = [["John", 23], ["dog", 3]]; //Subtask 46
-  const removedFromMyArray = myArray.shift(); //Subtask 46
+const myArray = [["John", 23], ["dog", 3]]; //Subtask 46
+const removedFromMyArray = myArray.shift(); //Subtask 46
+
+const myArray = [["John", 23], ["dog", 3]]; //Subtask 47 started
+myArray.shift();
+myArray.unshift(["Paul", 35]); //Subtask 47 ended
