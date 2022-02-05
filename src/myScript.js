@@ -21,3 +21,7 @@ properCamelCase = "A String";
 titleCaseOver = 9000;
 let catName = "Oliver"; //Subtask 9
 let catSound = "Meow!"; //Subtask 9
+const FCC = "freeCodeCamp"; //Subtask 10
+let fact = "is cool!"; //Subtask 10
+fact = "is awesome!"; //Subtask 10
+console.log(FCC, fact); //Subtask 10
