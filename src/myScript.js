@@ -84,3 +84,8 @@ const myStr = "My name is " + myName + " and I am well!"; //Subtask 30
 const someAdjective = "great"; //Subtask 31 started
 let myStr = "Learning to code is ";
 myStr += someAdjective; //Subtask 31 ended
+
+// Subtask 32 started
+let lastNameLength = 0; 
+const lastName = "Lovelace";
+lastNameLength = lastName.length; //Subtask 32 ended
