@@ -179,3 +179,14 @@ function fun2() {
   }
   console.log(output);
 } //Subtask 52 ended
+
+//Subtask 53 started 
+function myLocalScope() {
+    // Only change code below this line
+    const myVar = "foo";
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  // Run and check the console
+  // myVar is not defined outside of myLocalScope
+  console.log('outside myLocalScope', myVar); //Subtask 53 ended
