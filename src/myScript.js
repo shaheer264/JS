@@ -89,3 +89,7 @@ myStr += someAdjective; //Subtask 31 ended
 let lastNameLength = 0; 
 const lastName = "Lovelace";
 lastNameLength = lastName.length; //Subtask 32 ended
+
+let firstLetterOfLastName = ""; // Subtask 33 started
+const lastName = "Lovelace";
+firstLetterOfLastName = lastName[0]; //Subtask 33 ended
