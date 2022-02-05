@@ -235,3 +235,10 @@ const testArr = [1, 2, 3, 4, 5];
 console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr)); //Subtask 57 ended
+
+//Subtask 58 started
+function welcomeToBooleans() {
+    // Only change code below this line
+    return true; // Change this line
+    // Only change code above this line
+  } //Subtask 58 ended
