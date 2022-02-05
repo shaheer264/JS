@@ -272,3 +272,12 @@ function trueOrFalse(wasThatTrue) {
     return "Equal";
   }
   testStrictNotEqual(10); //Subtask 61 ended
+ 
+  //Subtask 62 started
+  function compareEquality(a, b) {
+    if (a === b) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  compareEquality(10, "10"); //Subtask 62 ended
