@@ -25,3 +25,4 @@ const FCC = "freeCodeCamp"; //Subtask 10
 let fact = "is cool!"; //Subtask 10
 fact = "is awesome!"; //Subtask 10
 console.log(FCC, fact); //Subtask 10
+const sum = 10 + 10; //Subtask 11
