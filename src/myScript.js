@@ -99,3 +99,6 @@ myStr = "Hello World"; //Subtask 34 ended
 
 const lastName = "Lovelace"; //Subtask 35 started
 const thirdLetterOfLastName = lastName[2]; //Subtask 35 ended
+
+const lastName = "Lovelace"; //Subtask 36 started
+const lastLetterOfLastName = lastName[lastName.length - 1] //Subtask 36 ended
