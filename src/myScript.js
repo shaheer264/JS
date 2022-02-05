@@ -263,3 +263,12 @@ function trueOrFalse(wasThatTrue) {
     return "Not Equal";
   }
   testEqual(10); //Subtask 60 ended
+
+  //Subtask 61 started
+  function testStrictNotEqual(val) {
+    if (val !== 17) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  testStrictNotEqual(10); //Subtask 61 ended
