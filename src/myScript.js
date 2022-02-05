@@ -377,3 +377,20 @@ function trueOrFalse(wasThatTrue) {
     return "Inside";
   }
   testLogicalOr(15); //Subtask 70 ended
+
+  //Subtask 71 started
+  function testElse(val) {
+    let result = "";
+    // Only change code below this line
+  
+    if (val > 5) {
+      result = "Bigger than 5";
+    }
+    else {
+      result = "5 or Smaller";
+    }
+  
+    // Only change code above this line
+    return result;
+  }
+  testElse(4); //Subtask 71 ended
