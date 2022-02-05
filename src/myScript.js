@@ -114,3 +114,6 @@ const wordBlanks = myNoun + " " + myAdjective + " " + " " + myVerb + " " + myAdv
 
 const myArray = ["my string", 1]; //Subtask 39
 const myArray = [["my array1", 1], ["my array2", 2]]; //Subtask 40
+
+const myArray = [50, 60, 70]; //Subtask 41
+const myData = myArray[0]; //Subtask 41
