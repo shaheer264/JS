@@ -11,3 +11,11 @@ var myLastName = "Hashmi"; //Subtask 6
 var a = 5; //Subtask 7
 var b = 10; //Subtask 7
 var c = "I am a"; //Subtask 7
+// Variable declarations for subtask 8
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+// Variable assignments for subtask 8
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
