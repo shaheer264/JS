@@ -113,3 +113,4 @@ const myAdverb = "quickly";
 const wordBlanks = myNoun + " " + myAdjective + " " + " " + myVerb + " " + myAdverb; //Subtask 38 ended
 
 const myArray = ["my string", 1]; //Subtask 39
+const myArray = [["my array1", 1], ["my array2", 2]]; //Subtask 40
