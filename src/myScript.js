@@ -149,7 +149,14 @@ function reusableFunction() { //Subtask 49 started
   }
   reusableFunction(); //Subtask 49 ended
 
-  function functionWithArgs(digit1, digit2) { //Subtask 50 started 
+function functionWithArgs(digit1, digit2) { //Subtask 50 started 
     console.log(digit1 + digit2);
   }
   functionWithArgs(2,4); //Subtask 50 ended
+
+function timesFive(num) { //Subtask 51 started 
+    return num * 5;
+}
+timesFive(5);
+timesFive(10);
+timesFive(0); //Subtask 51 ended
