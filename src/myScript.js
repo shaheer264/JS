@@ -93,3 +93,6 @@ lastNameLength = lastName.length; //Subtask 32 ended
 let firstLetterOfLastName = ""; // Subtask 33 started
 const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; //Subtask 33 ended
+
+let myStr = "Jello World"; //Subtask 34 ended
+myStr = "Hello World"; //Subtask 34 ended
