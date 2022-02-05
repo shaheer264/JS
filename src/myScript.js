@@ -158,5 +158,24 @@ function timesFive(num) { //Subtask 51 started
     return num * 5;
 }
 timesFive(5);
-timesFive(10);
+timesFive(2);
 timesFive(0); //Subtask 51 ended
+
+//Subtask 52 started 
+// Declare the myGlobal variable below this line   
+let myGlobal = 10;
+function fun1() {
+  // Assign 5 to oopsGlobal Here
+oopsGlobal = 5;
+}
+// Only change code above this line
+function fun2() {
+  var output = "";
+  if (typeof myGlobal != "undefined") {
+    output += "myGlobal: " + myGlobal;
+  }
+  if (typeof oopsGlobal != "undefined") {
+    output += " oopsGlobal: " + oopsGlobal;
+  }
+  console.log(output);
+} //Subtask 52 ended
