@@ -117,3 +117,6 @@ const myArray = [["my array1", 1], ["my array2", 2]]; //Subtask 40
 
 const myArray = [50, 60, 70]; //Subtask 41
 const myData = myArray[0]; //Subtask 41
+
+const myArray = [18, 64, 99]; //Subtask 42
+myArray[0] = 45; //Subtask 42
