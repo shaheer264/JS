@@ -281,3 +281,12 @@ function trueOrFalse(wasThatTrue) {
     return "Not Equal";
   }
   compareEquality(10, "10"); //Subtask 62 ended
+
+  //Subtask 63 started
+  function testNotEqual(val) {
+    if (val != 99) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  testNotEqual(10); //Subtask 63 ended
