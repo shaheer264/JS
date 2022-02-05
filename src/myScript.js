@@ -35,3 +35,4 @@ myVar++;
 let myVar = 11; //Subtask 16
 // Only change code below this line
 myVar--;
+const myDecimal = 5.7; //Subtask 17
