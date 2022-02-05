@@ -242,3 +242,15 @@ function welcomeToBooleans() {
     return true; // Change this line
     // Only change code above this line
   } //Subtask 58 ended
+
+//Subtask 59 started
+function trueOrFalse(wasThatTrue) {
+    // Only change code below this line
+    if (wasThatTrue) {
+      return "Yes, that was true";
+    }
+    return "No, that was false";
+    // Only change code above this line
+  }
+  trueOrFalse(true);
+  trueOrFalse(false); //Subtask 59 ended
