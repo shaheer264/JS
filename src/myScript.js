@@ -80,3 +80,7 @@ myStr += " This is the second sentence." //Subtask 29 ended
 
 const myName = "Shaheer"; //Subtask 30
 const myStr = "My name is " + myName + " and I am well!"; //Subtask 30
+
+const someAdjective = "great"; //Subtask 31 started
+let myStr = "Learning to code is ";
+myStr += someAdjective; //Subtask 31 ended
