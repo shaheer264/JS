@@ -111,3 +111,5 @@ const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks = myNoun + " " + myAdjective + " " + " " + myVerb + " " + myAdverb; //Subtask 38 ended
+
+const myArray = ["my string", 1]; //Subtask 39
